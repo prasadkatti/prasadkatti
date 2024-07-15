@@ -1,7 +1,7 @@
 ### Hi there 👋. Thank you for visiting my Github profile.
 
-- 🔭 I currently work at Teradata as a Senior Software Engineer.
-- 🌱 I’m currently learning Go and Kubernetes.
+- 🔭 I currently work at Twilio as a Senior Software Engineer.
+- 🌱 I’m currently learning Go, Kubernetes and ArgoCD.
 - 😄 Pronouns: He/Him
 
 ### Connect with me 📫:
